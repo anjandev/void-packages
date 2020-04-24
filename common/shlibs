@@ -3836,9 +3836,9 @@ libmdnsd.so.1 libmdnsd-0.9_1
 libPtex.so ptex-2.3.2_1
 libosdGPU.so.3.4.0 OpenSubdiv-3.4.0_1
 libosdCPU.so.3.4.0 OpenSubdiv-3.4.0_1
-libdino.so.0 dino-0.1.0_1
-libxmpp-vala.so.0 dino-0.1.0_1
-libqlite.so.0 dino-0.1.0_1
+libdino.so.0 dino-master-20200424_1
+libxmpp-vala.so.0 dino-master-20200424_1
+libqlite.so.0 dino-master-20200424_1
 libmpir.so.23 mpir-3.0.0_1
 libmpirxx.so.8 mpir-3.0.0_1
 libcaribou.so.0 libcaribou-0.4.21_3
